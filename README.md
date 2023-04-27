@@ -1,6 +1,6 @@
 # Objektinio programavimo laboratorinis darbas - 1-oji užduotis.
 
-### **Programa, skirta studentų galutinio balo skaičiavimui.**
+### Programa, skirta studentų galutinio balo skaičiavimui.
 
 # Instaliavimas
 
