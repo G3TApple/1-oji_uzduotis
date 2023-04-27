@@ -6,6 +6,8 @@
 
 - Atsisiuntę programą, jos aplanke paleiskite komandą *make*, norėdami sukurti paleidžiamąjį failą. Norėdami ištrinti sukurtus failus, rašykite *make clean*.
 
+# Naudojimosi instrukcijos
+
 **Duomenų įvedimas ranka:**
 1. Įveskite didžiausią įmanomą pažymių skaičių. 
 2. Toliau įveskite studento vardą ir pavardę bei gautus pažymius. Norėdami nutraukti pažymių vedimą, įveskite bet kokį simbolį vietoj pažymio. Tuomet išsaugota bus tik tiek pažymių, kiek įvedėte. Įvedus pažymius prašoma įvesti egzamino pažymį.
@@ -36,6 +38,8 @@
 
 ### Programos veikimo nuotrauka (v0.1): 
 ![image](https://user-images.githubusercontent.com/116343289/221123906-367b75ab-b0f9-49ac-924d-c2dc56dcebd6.png)
+
+# Detalesnė informacija
 
 ### Studentų generavimo spartos lentelė (naudojant _vector_): <br>
 |                  **Studentų kiekis** | **1.000** | **10.000** | **100.000** | **1.000.000** | **10.000.000** |
